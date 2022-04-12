@@ -29,7 +29,7 @@ A library for building JSON decoders using the pipeline (|>) operator and plain 
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'SwiftDecodePipeline/**/*'
+  s.source_files = 'Sources/SwiftDecodePipeline/**/*'
 
   s.dependency 'SwiftyJSON', '~> 3.0'
   s.dependency 'Curry', '~> 3.0'
